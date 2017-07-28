@@ -1,0 +1,4 @@
+ Please ensure you change the JDK to 1.8 when import as a maven project
+ Please change the gecko driver path reflect Driver_exe package in the src/test/java src folder. 
+ I have use 2 design patterns which are page factory and page object in the abstract classes.
+ I have use regular expression to parameterize the feature file to allow plate numbers configuration as requested.
